@@ -1,4 +1,3 @@
-
 package ec.edu.espol.proyecto;
 
 import java.io.File;
